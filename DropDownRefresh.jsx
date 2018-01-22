@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import './index.css'
+import './DropDownRefresh.css'
 
 export default function WithDropDownRefresh(DropDownComponent) {
   return class DropDownRefresh extends Component {
